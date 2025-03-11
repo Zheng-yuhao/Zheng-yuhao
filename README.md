@@ -1,18 +1,5 @@
 ![What Can I Do](https://skillicons.dev/icons?i=python,go,ruby,js,django,vue,gcp)
 
-
-```go
-func selfIntroduction(){
-
-  fmt.Println('Greeting !')
-
-  fmt.Println('I\'m a software engineer')
-
-  fmt.Println('That's all')
-  fmt.Println('以上!')
-}
-```
-- github page -> [my blog](https://zheng-yuhao.github.io/)
 <!--
 **Zheng-yuhao/Zheng-yuhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,5 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zheng-yuhao&hide=css,scss,htm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://app.daily.dev/dinnercodde"><img src="https://api.daily.dev/devcards/v2/qN3GKtgPQFIDTieVWYEH9.png?r=78t&type=wide" width="652" alt="dinner codde's Dev Card"/></a>
+
+
+
+
+
+- 🔭 I’m currently working on ... "Back-end development projects for Sier in Japan."
+- 🌱 I’m currently learning ... "Flutter and system design."
+- 👯 I’m looking to collaborate on ... "Flutter or other development projects, especially with others interested in these areas"
+- 🤔 I’m looking for help with ... "career,,"
+- 💬 Ask me about ... "anything!"
+- 📫 How to reach me: ... "Feel free to contact me via DM or GitHub."
+- ⚡ Fun fact: ... "Honey never spoils."
